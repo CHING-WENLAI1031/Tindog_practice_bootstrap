@@ -1,6 +1,6 @@
 TinDog Practice (Bootstrap 練習)
 
-本專案為我練習 Bootstrap 網頁切版的作業，目的在於透過模仿設計範例（「TinDog」養狗交友 App 概念）來熟悉 Bootstrap 栅格系統、響應式設計與元件運用。
+本專案為我練習 Bootstrap 網頁切版的作業，目的在於透過模仿設計範例（「TinDog」養狗交友 App 概念）來熟悉 Bootstrap Grid System、響應式設計與元件運用。
 
 🔍 專案概覽
 
@@ -12,11 +12,9 @@ TinDog Practice (Bootstrap 練習)
 
 index.html：主首頁切版範例
 
-solution.html：參考範例（或解答版）
-
 css/：自訂 CSS 檔案
 
-images/、goal images/：切版與設計參考用圖片資源
+images/goal images/：切版與設計參考用圖片資源
 
 專案目標：
 
@@ -28,7 +26,7 @@ images/、goal images/：切版與設計參考用圖片資源
 
 練習將設計稿（或圖片資源）轉化為 HTML/CSS 架構，提高實作能力。
 
-✅ 功能與版面亮點
+功能與版面亮點
 
 頂部導覽列（Navbar）具備響應式切換。
 
